@@ -1,0 +1,8 @@
+Objects
+  The Skater
+Actions
+  Skater move forward (3 meters)
+  Skater turn left 2.25 revolutions (2 turns plus .25 to get her facing the next side of the square)
+  Skater turn left .6 revolutions (turn to face audiance)
+  Skater upper body turn forward .1 revolutions
+  Skater upper body turn backward .1 revolutions

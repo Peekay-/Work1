@@ -1,0 +1,13 @@
+Skater skate forward (3 meters)
+Skater turn left 2.25 times (twice round plus a quarter turn for the next side of the square)
+Skater skate forward (3 meters)
+Skater turn left 2.25 times
+Skater skate forward (3 meters)
+Skater turn left 2.25 times
+Skater skate forward (3 meters)
+Skater turn left 2.25 times
+Skater turn left .06 times (to get her facing the audiance)
+Skater skate forward (6 meters (skate forward twice))
+Skater upper body turn forward .1 revolution
+Skater upper body turn backward .1 revolution
+
